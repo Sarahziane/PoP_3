@@ -55,6 +55,7 @@ namespace PoP3
                 {
                     case 1:
                         Triangles();
+
                         break;
 
                     case 2:
